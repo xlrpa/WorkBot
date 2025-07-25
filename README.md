@@ -37,7 +37,7 @@
 
 注：Gif动图为机器人自动运行
 
-#### 发送图片 
+#### 发送图片
 
   <img src="./images/sendImage.gif" alt="sendImage.gif" width="360" height="auto">
 
