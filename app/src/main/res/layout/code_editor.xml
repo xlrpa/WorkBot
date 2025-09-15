@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.autojs.autojs.ui.edit.editor.CodeEditText
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/code_edit_text"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollHorizontally="false"
+    android:inputType="textMultiLine"
+    android:imeOptions="flagNoExtractUi"
+    android:textColor="@android:color/transparent"
+    android:textCursorDrawable="@drawable/code_edit_text_cursor"
+    />
+

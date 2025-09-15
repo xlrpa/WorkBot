@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/web_kernel"
+        android:icon="@drawable/ic_check_for_updates"
+        android:title="切换Web内核"
+         />
+    <item
+        android:id="@+id/web_bookmarks"
+        android:icon="@drawable/ic_star"
+        android:title="收藏管理"
+         />
+    <item
+        android:id="@+id/web_ua"
+        android:icon="@drawable/ic_ua"
+        android:title="UA设置"
+        />
+    <item
+        android:id="@+id/switch_fullscreen"
+        android:icon="@drawable/ic_fullscreen"
+        android:title="@string/switch_fullscreen"
+         />
+    <item
+        android:id="@+id/switch_task_manager"
+        android:icon="@drawable/ic_track_changes_black_48dp"
+        android:title="切换定时任务调度器" />
+    <item
+        android:id="@+id/switch_line_wrap"
+        android:icon="@drawable/ic_format_line_spacing_black_48dp"
+        android:title="切换编辑器自动换行" />
+    <item
+        android:id="@+id/file_manager_permission"
+        android:icon="@drawable/ic_floating_action_menu_file"
+        android:title="@string/text_file_manager_permission"
+         />
+    <item
+        android:id="@+id/ali_settings"
+        android:icon="@drawable/ic_ali_settings"
+        android:title="@string/text_setting"
+         />
+    <item
+        android:id="@+id/ali_exit"
+        android:icon="@drawable/ic_ali_exit"
+        android:title="@string/text_exit"
+         />
+
+
+</menu>

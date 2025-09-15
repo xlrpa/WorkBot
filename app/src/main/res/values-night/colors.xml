@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FF121212</color>
+    <color name="on_background">#FFFFFFFF</color>
+    <color name="surface">#FF373737</color>
+    <color name="on_surface">#FFFFFFFF</color>
+
+    <color name="item_background">#333333</color>
+    <color name="item_background_dark">#252525</color>
+    <color name="drawer_menu_item_text_color">#9a9a9a</color>
+    <color name="drawer_menu_group_text_color">#808080</color>
+    <color name="divider">#FF121212</color>
+    <color name="text_color_secondary">#9a9a9a</color>
+    <color name="text_color_thirdly">#808080</color>
+    <color name="tab_indicator">#6D6D6E</color>
+    <color name="tab_text">#3A3A3C</color>
+    <color name="toolbar">@android:color/white</color>
+    <color name="toolbar_disabled">#77e0e0e0</color>
+    <color name="console_debug">#dfc0c0c0</color>
+    <color name="console_verbose">#7F7F80</color>
+
+</resources>

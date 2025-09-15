@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notices>
+    <notice>
+        <name>Rhino: JavaScript in Java</name>
+        <url>https://github.com/mozilla/rhino</url>
+        <copyright/>
+        <license>Mozilla Public License 2.0</license>
+    </notice>
+    <notice>
+        <name>Ktor: Framework for quickly creating connected applications in Kotlin with minimal effort</name>
+        <url>https://github.com/ktorio/ktor</url>
+        <copyright/>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Markwon : Android markdown library (no WebView)</name>
+        <url>https://github.com/noties/Markwon</url>
+        <copyright/>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Coil : Image loading for Android backed by Kotlin Coroutines.</name>
+        <url>https://github.com/coil-kt/coil</url>
+        <copyright/>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>FloatingActionButtonSpeedDial : A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification</name>
+        <url>https://github.com/leinardi/FloatingActionButtonSpeedDial</url>
+        <copyright/>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>accompanist : A collection of extension libraries for Jetpack Compose</name>
+        <url>https://github.com/google/accompanist</url>
+        <copyright/>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>quickie : Android QR code scanning library</name>
+        <url>https://github.com/G00fY2/quickie</url>
+        <copyright/>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>LeakCanary</name>
+        <copyright>Copyright 2015 Square, Inc.</copyright>
+        <url>https://github.com/square/leakcanary</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>StorIO</name>
+        <url>https://github.com/pushtorefresh/storio</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Material Dialogs</name>
+        <url>https://github.com/afollestad/material-dialogs</url>
+        <copyright>Copyright (c) 2014-2016 Aidan Michael Follestad</copyright>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>Gson</name>
+        <url>https://github.com/google/gson</url>
+        <copyright>Copyright 2008 Google Inc.</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>commonmark-java</name>
+        <url>https://github.com/atlassian/commonmark-java</url>
+        <copyright>Copyright (c) 2015-2016 Atlassian and others.</copyright>
+        <license>BSD 2-Clause License</license>
+    </notice>
+    <notice>
+        <name>Alipay ZeroSdk</name>
+        <copyright>Copyright 2016 Fung Go (fython)</copyright>
+        <url>https://github.com/fython/AlipayZeroSdk</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>android-issue-reporter</name>
+        <copyright/>
+        <url>https://github.com/HeinrichReimer/android-issue-reporter</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>SortableTableView</name>
+        <copyright>Copyright 2015 Ingo Schwarz</copyright>
+        <url>https://github.com/ISchwarz23/SortableTableView</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>MultiLevelListView</name>
+        <copyright>2016 (C) Copyright Open-RnD Sp. z o.o.</copyright>
+        <url>https://github.com/open-rnd/android-multi-level-listview</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>event-bus</name>
+        <copyright>2016 (C) Copyright Open-RnD Sp. z o.o.</copyright>
+        <url>https://github.com/greenrobot/EventBus</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Expandable RecyclerView</name>
+        <copyright>Copyright (c) 2015 Big Nerd Ranch</copyright>
+        <url>https://github.com/bignerdranch/expandable-recycler-view</url>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>Android Terminal Emulator</name>
+        <copyright/>
+        <url>https://github.com/jackpal/Android-Terminal-Emulator</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>RecyclerView-FlexibleDivider</name>
+        <copyright>Copyright 2016 yqritc</copyright>
+        <url>https://github.com/yqritc/RecyclerView-FlexibleDivider</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Volley</name>
+        <copyright/>
+        <url>https://github.com/google/volley</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Settings Compat</name>
+        <copyright>Copyright 2016 czy1121</copyright>
+        <url>https://github.com/czy1121/settingscompat</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Zip4j</name>
+        <copyright/>
+        <url>http://www.lingala.net/zip4j/</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>p7zip-android</name>
+        <copyright/>
+        <url>https://sparanoid.com/lab/7z/</url>
+        <license>GNU General Public License 3.0</license>
+    </notice>
+    <notice>
+        <name>paddle</name>
+        <copyright>Copyright (c) 2016 PaddlePaddle Authors. All Rights Reserved</copyright>
+        <url>https://github.com/paddlepaddle/paddle</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+</notices>
